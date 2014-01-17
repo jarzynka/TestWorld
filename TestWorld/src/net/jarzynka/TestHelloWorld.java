@@ -10,6 +10,8 @@ public class TestHelloWorld {
 		System.out.println("And the maiden Malonche set sail");
 		
 		System.out.println("And then the salami sales men started to wail!");
+		
+		System.out.println("There was nothing left, even the tail!");
 
 	}
 
